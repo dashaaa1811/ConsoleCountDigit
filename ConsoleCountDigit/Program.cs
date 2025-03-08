@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Подсчет количества цифр в числе
+//Структура:
+//Входные данные: целое число number.
+//Выходные данные: количество цифр в числе.
+
 namespace ConsoleCountDigit
 {
     internal class Program
